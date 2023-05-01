@@ -20,6 +20,7 @@
         <module>ProductService</module>
         <module>ServiceDiscovery</module>
         <module>ServiceDiscovery</module>
+        <module>ApiGateway</module>
     </modules>
 
     <properties>
